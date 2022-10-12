@@ -3,3 +3,5 @@
 - 💻 Core Stack: **Go, Python, Django**. Mainly focused on Backend & DevOps.
 - 🔥 Interested in Backend
 - 😌 <a href="https://t.me/pussykiller2009"  target="blank">Telegram</a> | <a href="https://www.instagram.com/roma.s.hka/"  target="blank">Instagram</a> | <a href="https://vk.com/romashka1922"  target="blank">VK</a>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ivanovamir)](https://git.io/streak-stats)
