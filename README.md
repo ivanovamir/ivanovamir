@@ -7,4 +7,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=ivanovamir&theme=buefy&hide_border=true&border_radius=)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanovamir&theme=default&show_icons=true&hide_border=true&layout=compact&langs_count=50)](#)
 
-[![Profile views](https://gpvc.arturio.dev/Maizerer)](#)<br>
+[![Profile views](https://gpvc.arturio.dev/ivanovamir)](#)<br>
