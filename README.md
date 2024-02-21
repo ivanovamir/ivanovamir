@@ -2,7 +2,7 @@
 
 - 💻 Core Stack: **Go, Python**. Mainly focused on Backend & DevOps.
 - 🔥 Interested in Backend
-- 😌 <a href="https://t.me/pussykiller2009"  target="blank">Telegram</a> | <a href="https://www.instagram.com/roma.s.hka/"  target="blank">Instagram</a> | <a href="https://vk.com/romashka1922"  target="blank">VK</a>
+- 😌 <a href="https://t.me/amirich18"  target="blank">Telegram</a> | <a href="https://www.instagram.com/roma.s.hka/"  target="blank">Instagram</a> | <a href="https://vk.com/romashka1922"  target="blank">VK</a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ivanovamir&theme=buefy&hide_border=true&border_radius=)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanovamir&theme=default&show_icons=true&hide_border=true&layout=compact&langs_count=50)](#)
